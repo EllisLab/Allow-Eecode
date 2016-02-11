@@ -1,7 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 /*
-Copyright (C) 2004 - 2015 EllisLab, Inc.
+Copyright (C) 2004 - 2016 EllisLab, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -31,7 +31,7 @@ in this Software without prior written authorization from EllisLab, Inc.
  * @package			ExpressionEngine
  * @category		Plugin
  * @author			EllisLab
- * @copyright		Copyright (c) 2004 - 2015, EllisLab, Inc.
+ * @copyright		Copyright (c) 2004 - 2016, EllisLab, Inc.
  * @link			https://github.com/EllisLab/Allow-Eecode
  */
 
@@ -94,3 +94,6 @@ class Allow_eecode {
  		$this->return_data = $str;
 	}
 }
+// END CLASS
+
+// EOF
