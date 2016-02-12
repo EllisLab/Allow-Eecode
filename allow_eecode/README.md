@@ -2,6 +2,10 @@
 
 Allows ExpressionEngine code to be used in entries. **This add-on should be used with extreme caution, if at all. Ask yourself if you should really be putting tags inside _content_. If you are confident the answer is yes, here you go!**
 
+## Installation
+
+Copy the `allowed_eecode` folder to your `system/user/addons` folder (you can ignore the rest of this repository's files). In your ExpressionEngine control panel, visit the Add-On Manager and click Install next to "Allow EE Code".
+
 ## Usage
 
 ### `{exp:allow_eecode}`
@@ -22,6 +26,10 @@ Allows ExpressionEngine code to be used in entries. **This add-on should be used
 - `embed` - (y/n) Allow you to allow the use of {embed} tags in your entries. Set to 'n' by default.
 
 ## Change Log
+
+### 2.0.1
+
+- Added installation instructions.
 
 ### 2.0
 
