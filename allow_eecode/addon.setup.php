@@ -9,3 +9,5 @@ return array(
 	'namespace'   => 'User\Addons\AllowEecode',
 	'settings_exist' => FALSE
 );
+
+// testing
